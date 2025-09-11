@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"823acfbb0e4a2d05","x":-650,"y":-840,"width":340,"height":240,"type":"file","file":"CIT595 Operating Systems/Computer Systems.md"},
+		{"id":"00e8e3be739b34d9","x":-220,"y":-520,"width":370,"height":230,"type":"file","file":"CIT595 Operating Systems/virtual memory.md"},
+		{"id":"94cff2db0889c4f2","type":"file","file":"CIT595 Operating Systems/OS History.md","x":-650,"y":-1300,"width":460,"height":300}
+	],
+	"edges":[
+		{"id":"f6fcc87b313519d1","fromNode":"823acfbb0e4a2d05","fromSide":"bottom","toNode":"00e8e3be739b34d9","toSide":"left"},
+		{"id":"066cd0b0e0446797","fromNode":"94cff2db0889c4f2","fromSide":"bottom","toNode":"823acfbb0e4a2d05","toSide":"top"}
+	]
+}
