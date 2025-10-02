@@ -12,7 +12,7 @@ The memory address that the [[stack pointer]] points at is also the smallest add
 |                                  |
 |------------------- | ← Heap grows up toward higher addresses  
 |                                  |
-|     HEAP                   |
+|     [[heap]]                   |
 |                                  |
 |------------------- | 
 |    DATA                    |

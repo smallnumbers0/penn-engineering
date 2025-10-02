@@ -1,0 +1,1 @@
+used to store contents of a process and restores the contents when we need it

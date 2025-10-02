@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"823acfbb0e4a2d05","type":"file","file":"CIT 595 Operating Systems/Computer Systems.md","x":-1480,"y":-950,"width":340,"height":240},
+		{"id":"516e656c17a55896","type":"file","file":"CIT 595 Operating Systems/process control block.md","x":-1020,"y":-300,"width":400,"height":400},
+		{"id":"7b9f4fe263ea992d","type":"file","file":"CIT 595 Operating Systems/process.md","x":-1600,"y":-557,"width":380,"height":325},
+		{"id":"bb03df72c384347c","type":"file","file":"CIT 595 Operating Systems/system call.md","x":-1050,"y":-624,"width":360,"height":230},
+		{"id":"00e8e3be739b34d9","type":"file","file":"CIT 595 Operating Systems/virtual memory.md","x":-960,"y":-950,"width":370,"height":230},
+		{"id":"94cff2db0889c4f2","type":"file","file":"CIT 595 Operating Systems/OS History.md","x":-1480,"y":-1360,"width":460,"height":300},
+		{"id":"3bd1fc25655b22d5","type":"file","file":"CIT 595 Operating Systems/heap.md","x":-907,"y":-1330,"width":435,"height":300},
+		{"id":"2f5eca01adc80e63","type":"file","file":"CIT 595 Operating Systems/stack.md","x":-360,"y":-1360,"width":400,"height":300},
+		{"id":"2956fd3d727b92eb","type":"file","file":"CIT 595 Operating Systems/scheduler.md","x":-360,"y":-632,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"f6fcc87b313519d1","fromNode":"823acfbb0e4a2d05","fromSide":"bottom","toNode":"00e8e3be739b34d9","toSide":"left"},
+		{"id":"066cd0b0e0446797","fromNode":"94cff2db0889c4f2","fromSide":"bottom","toNode":"823acfbb0e4a2d05","toSide":"top"},
+		{"id":"a6266062368cff9f","fromNode":"00e8e3be739b34d9","fromSide":"top","toNode":"3bd1fc25655b22d5","toSide":"bottom"},
+		{"id":"fa5674f70624f5f4","fromNode":"7b9f4fe263ea992d","fromSide":"right","toNode":"00e8e3be739b34d9","toSide":"bottom"},
+		{"id":"2df0312a280a326d","fromNode":"7b9f4fe263ea992d","fromSide":"right","toNode":"516e656c17a55896","toSide":"left"},
+		{"id":"7c4026cd10282a69","fromNode":"bb03df72c384347c","fromSide":"bottom","toNode":"516e656c17a55896","toSide":"top"},
+		{"id":"896afc968ea8b7c2","fromNode":"7b9f4fe263ea992d","fromSide":"right","toNode":"bb03df72c384347c","toSide":"left"},
+		{"id":"594abf5f65bb036e","fromNode":"bb03df72c384347c","fromSide":"top","toNode":"00e8e3be739b34d9","toSide":"bottom"},
+		{"id":"ff59ab2a6e14fe32","fromNode":"823acfbb0e4a2d05","fromSide":"bottom","toNode":"7b9f4fe263ea992d","toSide":"top"},
+		{"id":"b01a298f6408561a","fromNode":"00e8e3be739b34d9","fromSide":"top","toNode":"2f5eca01adc80e63","toSide":"bottom"}
+	]
+}
