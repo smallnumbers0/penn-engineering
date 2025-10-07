@@ -26,3 +26,6 @@ PCBs are stored in protected memory so user level processes cannot access them.
 Frequently accessed PCB information may be stored in the [[cache]] in CPU registers or fast memory
 
 When a process terminates, the OS cleans up the PCB
+
+container resources - open files, memory locations
+exeuction context - stack pointer program counter register values
